@@ -3,4 +3,4 @@
 <h1 align="center">⭐<a href="https://bit.ly/main-github">https://bit.ly/main-github</a>⭐</h3>
 
 > [!TIP]
-> Think the [Bitly](https://en.wikipedia.org/wiki/Bitly) link is suspicious? Copy the link, and add a `+` to preview where the link points to!
+> Think the [Bitly](https://en.wikipedia.org/wiki/Bitly) link is suspicious? Copy the link, and add a `+` at the end to preview where the link points to!
